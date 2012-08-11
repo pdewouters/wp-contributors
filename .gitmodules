@@ -1,0 +1,3 @@
+[submodule "Custom-Metaboxes-and-Fields-for-WordPress"]
+	path = includes/Custom-Metaboxes-and-Fields-for-WordPress
+	url = https://github.com/pdewouters/Custom-Metaboxes-and-Fields-for-WordPress.git
