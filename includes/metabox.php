@@ -64,6 +64,6 @@ add_action( 'init', 'wpc_cmb_initialize_cmb_meta_boxes', 9999 );
 function wpc_cmb_initialize_cmb_meta_boxes() {
 
 	if ( ! class_exists( 'cmb_Meta_Box' ) )
-		require_once WP_CONTRIB_INCLUDES . 'Custom-Metaboxes-and-Fields-for-WordPress/init.php';
+		require_once WP_CONTRIB_INCLUDES . 'metabox/init.php';
 
 }
